@@ -55,5 +55,3 @@ public static boolean isIMEI(String imei) {
     return (resultInt == crc);
 }
 ```
-
-编辑于 2018-10-18
