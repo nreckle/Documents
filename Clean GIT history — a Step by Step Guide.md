@@ -1,20 +1,8 @@
 # Clean GIT history — a Step by Step Guide
 
-[![Catalina Turlea](https://miro.medium.com/fit/c/96/96/1*It9zjT8R2Hb8FOQuTMK4-A.jpeg)](https://medium.com/@catalinaturlea?source=post_page-----eefc0ad8696d----------------------)
-
-[Catalina Turlea](https://medium.com/@catalinaturlea?source=post_page-----eefc0ad8696d----------------------)Follow
+[Catalina Turlea](https://medium.com/@catalinaturlea?source=post_page-----eefc0ad8696d----------------------)
 
 [Jun 12, 2018](https://medium.com/@catalinaturlea/clean-git-history-a-step-by-step-guide-eefc0ad8696d?source=post_page-----eefc0ad8696d----------------------) · 10 min read
-
-
-
-
-
-
-
-
-
-
 
 # Do you have a readable GIT commit history?
 
