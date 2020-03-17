@@ -2,7 +2,7 @@
 
 ![InsertionSort](InsertionSort.gif)
 
-
+**插图来自网络**
 
 ``` java
 public static <AnyType extends Comparable<? super AnyType>>
